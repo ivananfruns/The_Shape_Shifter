@@ -1,0 +1,1282 @@
+﻿Log file open, 12/02/19 17:02:38
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.106411
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, GPU: NVIDIA GeForce GTX 970
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:215][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.02-16.02.39:215][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.02-16.02.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:216][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:220][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.02-16.02.39:220][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.02-16.02.39:221][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.02-16.02.39:221][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.02-16.02.39:221][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.02-16.02.39:230][  0]LogHAL: Display: Platform has ~ 8 GB [8550838272 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.02-16.02.39:230][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.02-16.02.39:230][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.02-16.02.39:230][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.02-16.02.39:231][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.02-16.02.39:236][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.02-16.02.39:236][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.02-16.02.39:236][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.02-16.02.39:236][  0]LogInit: Computer: DESKTOP-6JV3N38
+[2019.12.02-16.02.39:236][  0]LogInit: User: Ivan
+[2019.12.02-16.02.39:236][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.12.02-16.02.39:236][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.02-16.02.39:236][  0]LogMemory: Memory total: Physical=8.0GB (8GB approx)
+[2019.12.02-16.02.39:236][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.02-16.02.39:236][  0]LogMemory: Process Physical Memory: 101.31 MB used, 101.32 MB peak
+[2019.12.02-16.02.39:236][  0]LogMemory: Process Virtual Memory: 98.49 MB used, 98.49 MB peak
+[2019.12.02-16.02.39:236][  0]LogMemory: Physical Memory: 5160.07 MB used,  2994.64 MB free, 8154.71 MB total
+[2019.12.02-16.02.39:236][  0]LogMemory: Virtual Memory: 4653.99 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.12.02-16.02.39:239][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.02-16.02.39:274][  0]LogInit: Overriding language with editor language configuration option (en).
+[2019.12.02-16.02.39:274][  0]LogInit: Overriding locale with editor culture configuration option ().
+[2019.12.02-16.02.39:274][  0]LogInit: Using OS detected locale (es-ES).
+[2019.12.02-16.02.39:556][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.02-16.02.39:616][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.02-16.02.39:616][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.02-16.02.41:683][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.02-16.02.41:683][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.02-16.02.41:728][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 970' (Feature Level 11_0)
+[2019.12.02-16.02.41:728][  0]LogD3D11RHI:       4043/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.02-16.02.41:731][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.02-16.02.41:731][  0]LogD3D11RHI:       0/0/4077 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.02-16.02.41:731][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.02-16.02.41:736][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.02-16.02.41:736][  0]LogD3D11RHI:     GPU DeviceId: 0x13c2 (for the marketing name, search the web for "GPU Device Id")
+[2019.12.02-16.02.41:736][  0]LogWindows: EnumDisplayDevices:
+[2019.12.02-16.02.41:736][  0]LogWindows:    0. 'NVIDIA GeForce GTX 970' (P:1 D:1)
+[2019.12.02-16.02.41:736][  0]LogWindows:    1. 'NVIDIA GeForce GTX 970' (P:0 D:1)
+[2019.12.02-16.02.41:736][  0]LogWindows:    2. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.12.02-16.02.41:736][  0]LogWindows:    3. 'NVIDIA GeForce GTX 970' (P:0 D:0)
+[2019.12.02-16.02.41:737][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.12.02-16.02.41:737][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 970
+[2019.12.02-16.02.41:737][  0]LogD3D11RHI:   Driver Version: 431.60 (internal:26.21.14.3160, unified:431.60)
+[2019.12.02-16.02.41:737][  0]LogD3D11RHI:      Driver Date: 7-17-2019
+[2019.12.02-16.02.41:737][  0]LogRHI: Texture pool is 2830 MB (70% of 4043 MB)
+[2019.12.02-16.02.41:768][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.02-16.02.41:794][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.02-16.02.42:138][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.02-16.02.42:146][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.02-16.02.42:154][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.02-16.02.42:162][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.02-16.02.42:175][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.02-16.02.42:183][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.02-16.02.42:192][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.02-16.02.42:200][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.02-16.02.42:205][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.02-16.02.42:239][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.02-16.02.42:240][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.02-16.02.42:242][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.02-16.02.42:267][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.02-16.02.42:267][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.02-16.02.42:280][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.02-16.02.42:280][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.02-16.02.42:287][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.02-16.02.42:294][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.02-16.02.42:301][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.02-16.02.42:315][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.02-16.02.42:340][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.02-16.02.42:340][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.02-16.02.42:340][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.02-16.02.42:351][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.02-16.02.42:414][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Intermediate/Shaders/WorkingDirectory/12536/).
+[2019.12.02-16.02.42:414][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Ivan/AppData/Local/Temp/UnrealShaderWorkingDir/A1273ACC47BC5CF4A4FA33800A4180CA/'.
+[2019.12.02-16.02.42:417][  0]LogXGEController: Cleaning working directory: C:/Users/Ivan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2019.12.02-16.02.42:417][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.02-16.02.42:417][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.02-16.02.42:417][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.02-16.02.44:473][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: Loaded boot cache 0.19s 73MB C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.02-16.02.44:663][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.02-16.02.44:674][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.02-16.02.44:674][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.02-16.02.44:674][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.02-16.02.44:675][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Ivan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.02-16.02.44:675][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.02-16.02.44:675][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.02-16.02.44:693][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.02-16.02.44:695][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.02-16.02.44:703][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.02-16.02.44:900][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2019.12.02-16.02.45:117][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.02-16.02.45:247][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.02-16.02.45:247][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.02-16.02.45:247][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.02-16.02.45:247][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.02-16.02.45:247][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.02-16.02.45:255][  0]LogNetVersion: MyProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2896792207)
+[2019.12.02-16.02.45:601][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.039418 seconds
+[2019.12.02-16.02.45:608][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.02-16.02.45:608][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.02-16.02.45:608][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.02-16.02.47:808][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.02-16.02.47:816][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.02-16.02.47:885][  0]SourceControl: Source control is disabled
+[2019.12.02-16.02.47:885][  0]SourceControl: Source control is disabled
+[2019.12.02-16.02.47:887][  0]SourceControl: Source control is disabled
+[2019.12.02-16.02.47:888][  0]SourceControl: Source control is disabled
+[2019.12.02-16.02.48:015][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.02-16.02.48:149][  0]LogOcInput: OculusInput pre-init called
+[2019.12.02-16.02.48:156][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.02-16.02.48:156][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.02-16.02.48:225][  0]LogEngine: Initializing Engine...
+[2019.12.02-16.02.48:225][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.02-16.02.48:226][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.02-16.02.48:434][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.02-16.02.48:450][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.02-16.02.48:483][  0]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.02.48:515][  0]LogInit: FAudioDevice initialized.
+[2019.12.02-16.02.48:515][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.02-16.02.48:594][  0]LogDerivedDataCache: Saved boot cache 0.08s 73MB C:/Users/Ivan/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.02-16.02.48:605][  0]LogInit: Texture streaming: Enabled
+[2019.12.02-16.02.48:632][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.02-16.02.48:632][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.02-16.02.48:633][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.02-16.02.48:719][  0]LogInit: Transaction tracking system initialized
+[2019.12.02-16.02.48:763][  0]BlueprintLog: New page: Editor Load
+[2019.12.02-16.02.48:872][  0]LocalizationService: Localization service is disabled
+[2019.12.02-16.02.49:136][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/' took 0.01s
+[2019.12.02-16.02.49:136][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.02-16.02.49:136][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.02-16.02.49:467][  0]SourceControl: Source control is disabled
+[2019.12.02-16.02.49:467][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.02-16.02.49:468][  0]LightingResults: New page: Lighting Build
+[2019.12.02-16.02.49:471][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.02.49:471][  0]MapCheck: New page: Map Check
+[2019.12.02-16.02.49:471][  0]LightingResults: New page: Lighting Build
+[2019.12.02-16.02.49:520][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.12.02-16.02.50:030][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2019.12.02-16.02.50:055][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.02.50:055][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.02.50:085][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.02.50:086][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.02.50:086][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.02.50:086][  0]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.02.50:087][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-16.02.50:115][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2019.12.02-16.02.50:115][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-16.02.50:115][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,156ms to complete.
+[2019.12.02-16.02.50:116][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.648
+[2019.12.02-16.02.50:249][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.02.50:256][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.02.50:263][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.02.50:273][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.02.50:285][  0]LogCollectionManager: Loaded 0 collections in 0.001813 seconds
+[2019.12.02-16.02.50:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Collections/' took 0.00s
+[2019.12.02-16.02.50:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/Developers/Ivan/Collections/' took 0.00s
+[2019.12.02-16.02.50:295][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/Collections/' took 0.00s
+[2019.12.02-16.02.50:295][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2019.12.02-16.02.50:302][  0]LogContentBrowser: Native class hierarchy populated in 0.0072 seconds. Added 2863 classes and 680 folders.
+[2019.12.02-16.02.50:309][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.02-16.02.50:557][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.02-16.02.50:562][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.12.02-16.02.50:624][  0]LogSlate: Took 0.005784 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.02-16.02.50:630][  0]LogSlate: Took 0.004560 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.02-16.02.50:639][  0]LogSlate: Took 0.004837 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.02-16.02.50:720][  0]LogRenderer: Reallocating scene render targets to support 1796x856 Format 10 NumSamples 1 (Frame:1).
+[2019.12.02-16.02.50:919][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.12.02-16.02.50:919][  0]LogLoad: (Engine Initialization) Total time: 14.07 seconds
+[2019.12.02-16.02.50:919][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.02-16.02.50:981][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.02-16.02.51:603][ 11]LogAssetRegistry: Asset discovery search completed in 6.7043 seconds
+[2019.12.02-16.02.51:607][ 11]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000008 seconds (found 0 objects)
+[2019.12.02-16.02.51:607][ 11]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000086 seconds (updated 0 objects)
+[2019.12.02-16.02.52:274][ 13]LogSlate: Took 0.004909 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.02-16.05.31:328][588]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2019.12.02-16.05.37:223][253]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.05.37:553][266]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.05.37:583][266]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan
+[2019.12.02-16.05.37:605][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.02-16.05.37:605][266]Cmd: MAP LOAD FILE="../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/ThirdPersonBP/Maps/VersionIvan.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.02-16.05.37:606][266]LightingResults: New page: Lighting Build
+[2019.12.02-16.05.37:606][266]LoadErrors: New page: Loading map: VersionIvan.umap
+[2019.12.02-16.05.37:608][266]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.05.37:609][266]MapCheck: New page: Map Check
+[2019.12.02-16.05.37:609][266]LightingResults: New page: Lighting Build
+[2019.12.02-16.05.37:630][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2019.12.02-16.05.37:634][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.05.37:634][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.05.37:666][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.05.37:666][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.05.37:666][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.05.37:666][266]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.05.37:723][266]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.02-16.05.37:745][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2019.12.02-16.05.37:770][266]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.02-16.05.37:771][266]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,114ms to complete.
+[2019.12.02-16.05.37:771][266]LogFileHelpers: Loading map 'VersionIvan' took 0.165
+[2019.12.02-16.05.40:366][549]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall2)
+[2019.12.02-16.05.44:968][ 47]LogEditorViewport: Clicking on Actor (LMB): Wall_BP_C (Wall_BP71)
+[2019.12.02-16.05.50:143][646]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall2)
+[2019.12.02-16.05.53:848][ 86]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.06.04:650][381]EditorErrors: New page: Actor attachment
+[2019.12.02-16.06.06:796][631]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.06.06:811][631]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.06:811][631]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.06.06:811][631]PIE: New page: PIE session: VersionIvan (2/12/2019 18:06:06)
+[2019.12.02-16.06.06:812][631]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.02-16.06.06:812][631]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.06:832][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020449s)
+[2019.12.02-16.06.06:833][631]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.06.06:833][631]LogPlayLevel: PIE: World Init took: (0.001296s)
+[2019.12.02-16.06.06:834][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.022062s)
+[2019.12.02-16.06.06:854][631]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2019.12.02-16.06.06:866][631]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.06.06:872][631]LogInit: FAudioDevice initialized.
+[2019.12.02-16.06.06:880][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.06:884][631]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.06.06:889][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.06.06:889][631]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.06.06:889][631]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.06.06
+[2019.12.02-16.06.06:890][631]LogWorld: Bringing up level for play took: 0.005004
+[2019.12.02-16.06.06:890][631]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2019.12.02-16.06.06:898][631]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2019.12.02-16.06.06:902][631]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,715
+[2019.12.02-16.06.06:902][631]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.08:710][841]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.08:710][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.08:710][841]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.08:725][841]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.06.08:728][841]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.06.08:736][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.06.08:737][841]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.08:763][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2019.12.02-16.06.08:811][843]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2019.12.02-16.06.10:645][ 63]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.06.10:658][ 63]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.10:658][ 63]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.06.10:658][ 63]PIE: New page: PIE session: VersionIvan (2/12/2019 18:06:10)
+[2019.12.02-16.06.10:658][ 63]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.10:675][ 63]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017009s)
+[2019.12.02-16.06.10:676][ 63]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.06.10:676][ 63]LogPlayLevel: PIE: World Init took: (0.001060s)
+[2019.12.02-16.06.10:677][ 63]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.018239s)
+[2019.12.02-16.06.10:695][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2019.12.02-16.06.10:706][ 63]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.06.10:712][ 63]LogInit: FAudioDevice initialized.
+[2019.12.02-16.06.10:719][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.10:719][ 63]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.06.10:723][ 63]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.06.10:723][ 63]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.06.10:723][ 63]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.06.10
+[2019.12.02-16.06.10:724][ 63]LogWorld: Bringing up level for play took: 0.004091
+[2019.12.02-16.06.10:724][ 63]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.02-16.06.10:728][ 63]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,889
+[2019.12.02-16.06.10:728][ 63]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.27:306][ 46]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.27:306][ 46]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.27:306][ 46]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.27:320][ 46]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.06.27:324][ 46]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.06.27:330][ 46]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.06.27:330][ 46]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.27:357][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.02-16.06.27:409][ 49]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.02-16.06.29:392][286]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.06.29:406][286]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.29:406][286]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.06.29:406][286]PIE: New page: PIE session: VersionIvan (2/12/2019 18:06:29)
+[2019.12.02-16.06.29:406][286]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.29:425][286]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018140s)
+[2019.12.02-16.06.29:425][286]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.06.29:426][286]LogPlayLevel: PIE: World Init took: (0.000961s)
+[2019.12.02-16.06.29:426][286]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.019260s)
+[2019.12.02-16.06.29:445][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2019.12.02-16.06.29:455][286]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.06.29:461][286]LogInit: FAudioDevice initialized.
+[2019.12.02-16.06.29:468][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.29:468][286]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.06.29:472][286]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.06.29:472][286]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.06.29:472][286]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.06.29
+[2019.12.02-16.06.29:473][286]LogWorld: Bringing up level for play took: 0.004037
+[2019.12.02-16.06.29:473][286]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.02-16.06.29:477][286]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,141
+[2019.12.02-16.06.29:477][286]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.32:579][652]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.32:579][652]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.06.32:579][652]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.06.32:593][652]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.06.32:596][652]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.06.32:603][652]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.06.32:604][652]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.06.32:630][652]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2019.12.02-16.06.32:684][655]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.02-16.06.34:237][841]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall)
+[2019.12.02-16.06.37:782][261]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.02-16.06.38:879][347]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.06.47:327][209]LogSlate: Took 0.006367 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.02-16.06.48:603][350]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2019.12.02-16.06.48:811][350]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0004 seconds. Added 121 classes and 0 folders.
+[2019.12.02-16.06.49:518][350]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.06.49:519][350]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.06.49:538][350]LogSlate: Took 0.004084 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.02-16.07.37:690][357]LogEditorViewport: Clicking on Actor (LMB): changeShapeTrigger_C (changeShapeTrigger)
+[2019.12.02-16.07.38:759][480]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.07.38:840][489]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/changeShapeTrigger.changeShapeTrigger
+[2019.12.02-16.08.16:823][ 48]BlueprintLog: New page: Compile changeShapeTrigger
+[2019.12.02-16.08.16:998][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2019.12.02-16.08.17:587][100]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.08.17:599][100]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.17:599][100]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.08.17:600][100]PIE: New page: PIE session: VersionIvan (2/12/2019 18:08:17)
+[2019.12.02-16.08.17:600][100]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.17:617][100]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017199s)
+[2019.12.02-16.08.17:618][100]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.08.17:618][100]LogPlayLevel: PIE: World Init took: (0.001017s)
+[2019.12.02-16.08.17:618][100]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.018367s)
+[2019.12.02-16.08.17:647][100]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2019.12.02-16.08.17:658][100]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.08.17:665][100]LogInit: FAudioDevice initialized.
+[2019.12.02-16.08.17:672][100]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.17:672][100]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.08.17:676][100]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.17:676][100]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.17:676][100]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.08.17
+[2019.12.02-16.08.17:677][100]LogWorld: Bringing up level for play took: 0.004068
+[2019.12.02-16.08.17:677][100]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.02-16.08.17:682][100]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,065
+[2019.12.02-16.08.17:682][100]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.20:119][339]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.20:119][339]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.20:119][339]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.20:134][339]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.08.20:139][339]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.08.20:168][339]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.08.20:168][339]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.20:203][339]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2019.12.02-16.08.20:254][340]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.02-16.08.25:642][942]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.02-16.08.26:909][ 32]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.08.29:066][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:067][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:067][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:067][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:068][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:068][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:068][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:068][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:069][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:069][252]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:920][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:920][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:920][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:920][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:921][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:921][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:922][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.29:922][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:923][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.29:923][338]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.30:578][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.30:579][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.30:579][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.30:579][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.30:580][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.30:580][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.30:580][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.30:580][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.30:581][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.30:581][405]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.32:043][562]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.08.32:057][562]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.32:057][562]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.08.32:057][562]PIE: New page: PIE session: VersionIvan (2/12/2019 18:08:32)
+[2019.12.02-16.08.32:057][562]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.32:075][562]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017627s)
+[2019.12.02-16.08.32:076][562]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.08.32:076][562]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2019.12.02-16.08.32:076][562]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.018893s)
+[2019.12.02-16.08.32:106][562]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2019.12.02-16.08.32:117][562]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.08.32:123][562]LogInit: FAudioDevice initialized.
+[2019.12.02-16.08.32:130][562]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.32:130][562]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.08.32:134][562]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.32:134][562]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.32:134][562]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.08.32
+[2019.12.02-16.08.32:135][562]LogWorld: Bringing up level for play took: 0.004804
+[2019.12.02-16.08.32:136][562]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2019.12.02-16.08.32:141][562]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,523
+[2019.12.02-16.08.32:141][562]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.34:658][857]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.34:659][857]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.34:659][857]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.34:674][857]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.08.34:677][857]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.08.34:696][857]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.08.34:696][857]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.34:732][857]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2019.12.02-16.08.34:776][859]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2019.12.02-16.08.37:077][135]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.08.37:090][135]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.37:090][135]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.08.37:090][135]PIE: New page: PIE session: VersionIvan (2/12/2019 18:08:37)
+[2019.12.02-16.08.37:091][135]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.37:107][135]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016782s)
+[2019.12.02-16.08.37:108][135]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.08.37:109][135]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2019.12.02-16.08.37:109][135]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.018121s)
+[2019.12.02-16.08.37:137][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2019.12.02-16.08.37:147][135]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.08.37:153][135]LogInit: FAudioDevice initialized.
+[2019.12.02-16.08.37:159][135]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.37:159][135]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.08.37:163][135]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.08.37:163][135]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.08.37:163][135]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.08.37
+[2019.12.02-16.08.37:164][135]LogWorld: Bringing up level for play took: 0.004025
+[2019.12.02-16.08.37:164][135]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2019.12.02-16.08.37:167][135]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,45
+[2019.12.02-16.08.37:168][135]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.46:167][208]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.46:167][208]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.08.46:167][208]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.08.46:182][208]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.08.46:186][208]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.08.46:195][208]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.08.46:195][208]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.08.46:233][208]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2019.12.02-16.08.46:278][210]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2019.12.02-16.08.49:151][532]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall)
+[2019.12.02-16.08.50:894][725]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.08.50:968][733]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Cube_wall.Cube_wall
+[2019.12.02-16.09.05:880][ 43]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/ThirdPersonBP/Meshes/Cube_wall.Cube_wall
+[2019.12.02-16.09.06:610][ 44]LogRenderer: Reallocating scene render targets to support 1912x1280 Format 10 NumSamples 1 (Frame:1).
+[2019.12.02-16.09.15:805][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Meshes/Cube_wall" FILE="../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/ThirdPersonBP/Meshes/Cube_wall.uasset" SILENT=true
+[2019.12.02-16.09.15:830][677]LogSavePackage: Moving '../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Saved/Cube_wallBCBF2FDA4814FDAA3A7115AB603C95B9.tmp' to '../../../../../../Users/Ivan/Desktop/The_Shape_Shifter/MyProject/Content/ThirdPersonBP/Meshes/Cube_wall.uasset'
+[2019.12.02-16.09.25:639][248]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/Wall_BP1.Wall_BP1
+[2019.12.02-16.09.57:405][495]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.09.57:419][495]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.09.57:419][495]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.02-16.09.57:420][495]LogPlayLevel: [PlayLevel] Compiling Cube_wall before play...
+[2019.12.02-16.09.57:667][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2019.12.02-16.09.57:668][495]LogPlayLevel: PlayLevel: Blueprint regeneration took 248 ms (1 blueprints)
+[2019.12.02-16.09.57:668][495]PIE: New page: PIE session: VersionIvan (2/12/2019 18:09:57)
+[2019.12.02-16.09.57:668][495]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.09.57:687][495]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018783s)
+[2019.12.02-16.09.57:688][495]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.09.57:689][495]LogPlayLevel: PIE: World Init took: (0.001556s)
+[2019.12.02-16.09.57:689][495]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.020553s)
+[2019.12.02-16.09.57:726][495]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2019.12.02-16.09.57:737][495]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.09.57:743][495]LogInit: FAudioDevice initialized.
+[2019.12.02-16.09.57:751][495]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.09.57:751][495]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.09.57:754][495]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.09.57:754][495]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.09.57:755][495]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.09.57
+[2019.12.02-16.09.57:755][495]LogWorld: Bringing up level for play took: 0.004029
+[2019.12.02-16.09.57:756][495]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2019.12.02-16.09.57:759][495]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,142
+[2019.12.02-16.09.57:760][495]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.09.59:942][732]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.09.59:942][732]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.09.59:942][732]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.09.59:956][732]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.09.59:960][732]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.09.59:985][732]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.09.59:985][732]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.00:029][732]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.02-16.10.00:052][733]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2019.12.02-16.10.04:240][ 26]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.02-16.10.05:872][111]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.10.08:505][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.08:505][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.08:506][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.08:506][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.08:507][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.08:507][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.08:507][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.08:507][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.08:508][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.08:508][236]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.12:519][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.12:519][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.12:519][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.12:519][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.12:520][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.12:520][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.12:520][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.12:520][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.12:521][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.12:522][479]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.13:550][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.13:550][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.13:550][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.13:550][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.13:551][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.13:551][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.13:552][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.13:552][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.13:553][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.13:553][543]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.15:021][639]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.10.15:035][639]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.15:035][639]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.10.15:035][639]PIE: New page: PIE session: VersionIvan (2/12/2019 18:10:15)
+[2019.12.02-16.10.15:036][639]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.10.15:054][639]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018034s)
+[2019.12.02-16.10.15:055][639]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.10.15:055][639]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2019.12.02-16.10.15:055][639]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.019311s)
+[2019.12.02-16.10.15:091][639]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.02-16.10.15:102][639]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.10.15:108][639]LogInit: FAudioDevice initialized.
+[2019.12.02-16.10.15:114][639]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.10.15:114][639]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.10.15:118][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.15:118][639]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.15:118][639]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.10.15
+[2019.12.02-16.10.15:119][639]LogWorld: Bringing up level for play took: 0.004024
+[2019.12.02-16.10.15:119][639]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2019.12.02-16.10.15:123][639]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,494
+[2019.12.02-16.10.15:124][639]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.17:859][960]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.17:859][960]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.10.17:859][960]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.10.17:873][960]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.10.17:877][960]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.10.17:890][960]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.10.17:891][960]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.17:934][960]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2019.12.02-16.10.17:992][962]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2019.12.02-16.10.19:120][ 44]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.02-16.10.20:500][101]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.10.23:144][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.23:144][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.23:144][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.23:144][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.23:145][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.23:145][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.23:145][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.23:145][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.23:146][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.23:146][228]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.24:372][300]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.10.24:387][300]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.24:387][300]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.10.24:387][300]PIE: New page: PIE session: VersionIvan (2/12/2019 18:10:24)
+[2019.12.02-16.10.24:387][300]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.10.24:403][300]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015814s)
+[2019.12.02-16.10.24:404][300]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.10.24:404][300]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2019.12.02-16.10.24:404][300]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.016915s)
+[2019.12.02-16.10.24:439][300]LogUObjectHash: Compacting FUObjectHashTables data took   2.48ms
+[2019.12.02-16.10.24:450][300]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.10.24:456][300]LogInit: FAudioDevice initialized.
+[2019.12.02-16.10.24:463][300]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.10.24:463][300]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.10.24:467][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.24:467][300]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.24:467][300]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.10.24
+[2019.12.02-16.10.24:468][300]LogWorld: Bringing up level for play took: 0.004161
+[2019.12.02-16.10.24:468][300]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2019.12.02-16.10.24:472][300]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,855
+[2019.12.02-16.10.24:473][300]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.27:028][599]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.27:029][599]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.10.27:029][599]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.10.27:043][599]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.10.27:046][599]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.10.27:059][599]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.10.27:059][599]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.27:101][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2019.12.02-16.10.27:159][601]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2019.12.02-16.10.28:591][705]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2019.12.02-16.10.30:041][769]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.10.32:276][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.32:276][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.32:276][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.32:276][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.32:277][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.32:277][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.32:278][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.32:278][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.32:279][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.32:279][869]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.33:525][944]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.10.33:539][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.10.33:539][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.10.33:539][944]PIE: New page: PIE session: VersionIvan (2/12/2019 18:10:33)
+[2019.12.02-16.10.33:539][944]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.10.33:555][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016251s)
+[2019.12.02-16.10.33:556][944]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.10.33:556][944]LogPlayLevel: PIE: World Init took: (0.000901s)
+[2019.12.02-16.10.33:557][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.017318s)
+[2019.12.02-16.10.33:591][944]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2019.12.02-16.10.33:602][944]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.10.33:608][944]LogInit: FAudioDevice initialized.
+[2019.12.02-16.10.33:615][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.10.33:615][944]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.10.33:619][944]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.10.33:619][944]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.10.33:619][944]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.10.33
+[2019.12.02-16.10.33:620][944]LogWorld: Bringing up level for play took: 0.004335
+[2019.12.02-16.10.33:620][944]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2019.12.02-16.10.33:625][944]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,007
+[2019.12.02-16.10.33:625][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.14:081][787]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.14:081][787]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.14:081][787]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.14:095][787]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.11.14:098][787]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.11.14:115][787]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.11.14:115][787]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.14:160][787]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2019.12.02-16.11.14:219][789]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2019.12.02-16.11.19:288][147]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.11.19:355][154]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.11.19:369][154]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.19:369][154]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.11.19:369][154]PIE: New page: PIE session: VersionIvan (2/12/2019 18:11:19)
+[2019.12.02-16.11.19:369][154]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.19:385][154]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016469s)
+[2019.12.02-16.11.19:386][154]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.11.19:386][154]LogPlayLevel: PIE: World Init took: (0.001009s)
+[2019.12.02-16.11.19:386][154]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.017633s)
+[2019.12.02-16.11.19:421][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2019.12.02-16.11.19:432][154]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.11.19:438][154]LogInit: FAudioDevice initialized.
+[2019.12.02-16.11.19:444][154]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.19:444][154]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.11.19:448][154]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.11.19:448][154]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.11.19:448][154]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.11.19
+[2019.12.02-16.11.19:449][154]LogWorld: Bringing up level for play took: 0.003987
+[2019.12.02-16.11.19:449][154]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2019.12.02-16.11.19:454][154]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan -0,163
+[2019.12.02-16.11.19:454][154]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.26:608][998]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.26:608][998]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.26:608][998]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.26:624][998]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.11.26:627][998]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.11.26:643][998]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.11.26:643][998]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.26:687][998]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.12.02-16.11.26:752][  0]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2019.12.02-16.11.29:814][207]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall2)
+[2019.12.02-16.11.33:066][428]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall4)
+[2019.12.02-16.11.33:490][456]Cmd: DELETE
+[2019.12.02-16.11.33:490][456]Cmd: ACTOR DELETE
+[2019.12.02-16.11.33:494][456]LogEditorActor: Deleted Actor: Cube_wall_C
+[2019.12.02-16.11.33:531][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2019.12.02-16.11.33:531][456]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2019.12.02-16.11.34:034][492]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall3)
+[2019.12.02-16.11.34:172][500]Cmd: DELETE
+[2019.12.02-16.11.34:172][500]Cmd: ACTOR DELETE
+[2019.12.02-16.11.34:175][500]LogEditorActor: Deleted Actor: Cube_wall_C
+[2019.12.02-16.11.34:209][500]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2019.12.02-16.11.34:209][500]LogEditorActor: Deleted 1 Actors (0.037 secs)
+[2019.12.02-16.11.36:385][656]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.11.36:446][662]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.11.36:460][662]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.36:460][662]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.11.36:460][662]PIE: New page: PIE session: VersionIvan (2/12/2019 18:11:36)
+[2019.12.02-16.11.36:460][662]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.36:476][662]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015566s)
+[2019.12.02-16.11.36:476][662]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.11.36:477][662]LogPlayLevel: PIE: World Init took: (0.001062s)
+[2019.12.02-16.11.36:477][662]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.016776s)
+[2019.12.02-16.11.36:512][662]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2019.12.02-16.11.36:523][662]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.11.36:529][662]LogInit: FAudioDevice initialized.
+[2019.12.02-16.11.36:535][662]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.36:535][662]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.11.36:539][662]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.11.36:539][662]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.11.36:539][662]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.11.36
+[2019.12.02-16.11.36:540][662]LogWorld: Bringing up level for play took: 0.004295
+[2019.12.02-16.11.36:540][662]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2019.12.02-16.11.36:544][662]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,927
+[2019.12.02-16.11.36:545][662]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.39:262][981]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.39:262][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.39:262][981]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.39:275][981]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.11.39:278][981]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.11.39:291][981]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.11.39:292][981]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.39:336][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2019.12.02-16.11.39:395][983]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2019.12.02-16.11.40:251][ 48]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.11.40:265][ 48]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.40:265][ 48]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.11.40:265][ 48]PIE: New page: PIE session: VersionIvan (2/12/2019 18:11:40)
+[2019.12.02-16.11.40:265][ 48]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.40:281][ 48]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016197s)
+[2019.12.02-16.11.40:282][ 48]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.11.40:283][ 48]LogPlayLevel: PIE: World Init took: (0.001413s)
+[2019.12.02-16.11.40:283][ 48]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.017803s)
+[2019.12.02-16.11.40:316][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2019.12.02-16.11.40:326][ 48]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.11.40:331][ 48]LogInit: FAudioDevice initialized.
+[2019.12.02-16.11.40:338][ 48]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.40:338][ 48]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.11.40:342][ 48]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.11.40:342][ 48]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.11.40:342][ 48]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.11.40
+[2019.12.02-16.11.40:343][ 48]LogWorld: Bringing up level for play took: 0.004475
+[2019.12.02-16.11.40:343][ 48]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2019.12.02-16.11.40:347][ 48]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,73
+[2019.12.02-16.11.40:347][ 48]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.42:525][302]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.42:525][302]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.42:525][302]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.42:539][302]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.11.42:543][302]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.11.42:559][302]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.11.42:559][302]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.42:603][302]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2019.12.02-16.11.42:662][304]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2019.12.02-16.11.44:131][408]LogEditorViewport: Clicking on Actor (LMB): Wall_BP_C (Wall_BP78)
+[2019.12.02-16.11.46:027][523]LogEditorViewport: Clicking on Actor (LMB): Cube_wall_C (Cube_wall)
+[2019.12.02-16.11.47:104][596]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.11.52:464][238]EditorErrors: New page: Actor attachment
+[2019.12.02-16.11.53:610][310]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.02-16.11.53:625][310]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.11.53:625][310]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.02-16.11.53:625][310]PIE: New page: PIE session: VersionIvan (2/12/2019 18:11:53)
+[2019.12.02-16.11.53:625][310]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.11.53:640][310]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015370s)
+[2019.12.02-16.11.53:641][310]LogAIModule: Creating AISystem for world VersionIvan
+[2019.12.02-16.11.53:641][310]LogPlayLevel: PIE: World Init took: (0.001020s)
+[2019.12.02-16.11.53:642][310]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan to /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan (0.016619s)
+[2019.12.02-16.11.53:675][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2019.12.02-16.11.53:685][310]LogInit: XAudio2 using 'Focusrite USB (Focusrite USB Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.02-16.11.53:691][310]LogInit: FAudioDevice initialized.
+[2019.12.02-16.11.53:698][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.11.53:699][310]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2019.12.02-16.11.53:702][310]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.11.53:702][310]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.11.53:703][310]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan.VersionIvan up for play (max tick rate 0) at 2019.12.02-17.11.53
+[2019.12.02-16.11.53:703][310]LogWorld: Bringing up level for play took: 0.004108
+[2019.12.02-16.11.53:704][310]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2019.12.02-16.11.53:708][310]PIE: Play in editor start time for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan 0,091
+[2019.12.02-16.11.53:708][310]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.12.23:223][840]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.12.23:223][840]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.02-16.12.23:223][840]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_VersionIvan
+[2019.12.02-16.12.23:237][840]LogSlate: Window 'MyProject Game Preview Standalone (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.02-16.12.23:240][840]LogWorld: UWorld::CleanupWorld for VersionIvan, bSessionEnded=true, bCleanupResources=true
+[2019.12.02-16.12.23:253][840]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.02-16.12.23:253][840]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel' has LevelScriptBlueprint '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan' with GeneratedClass '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan_C' with ClassGeneratedBy '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.VersionIvan'
+[2019.12.02-16.12.23:298][840]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2019.12.02-16.12.23:356][842]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2019.12.02-16.12.43:210][240]LogEditorViewport: Clicking on Actor (LMB): changeShapeTrigger_C (changeShapeTrigger)
+[2019.12.02-16.12.44:289][314]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.02-16.12.51:314][944]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={6D55789D-41D7-29A2-48DD-C2B98DF879F3}
+[2019.12.02-16.13.10:298][166]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/changeColorTrigger.changeColorTrigger
+[2019.12.02-16.13.55:731][801]LogEditorTransaction: Undo Create Pin Link
+[2019.12.02-16.13.56:097][815]LogEditorTransaction: Undo Delete current selection
+[2019.12.02-16.14.01:856][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.01:857][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.01:857][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.01:857][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.01:858][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.01:859][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.01:859][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.01:859][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.01:860][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.01:860][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.01:861][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.01:861][155]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.04:849][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.04:849][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.04:850][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.04:850][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.04:851][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.04:851][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.04:852][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.04:852][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.04:852][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.04:852][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.04:853][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.04:853][349]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.08:310][556]LogSlate: Took 0.004040 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2019.12.02-16.14.15:152][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.15:152][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.15:152][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.15:152][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.15:154][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.15:154][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.15:155][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.15:155][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.15:155][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.15:155][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.15:157][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.15:157][112]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.34:413][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.34:413][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.34:413][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.34:413][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.34:415][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.34:415][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.34:415][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.34:415][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.34:417][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.34:417][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.34:418][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.34:418][394]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.36:805][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.36:805][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.36:806][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.36:806][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.36:807][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.36:807][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.36:808][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.36:808][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.36:808][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.36:808][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.36:809][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.36:809][575]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.39:737][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.39:737][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.39:737][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.39:737][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.39:738][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.14.39:739][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.14.39:739][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.39:739][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.39:739][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.39:739][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.14.39:740][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.14.39:741][763]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:057][246]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2019.12.02-16.15.28:107][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:107][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:107][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:107][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:108][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:108][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:108][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:108][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:314][246]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2019.12.02-16.15.28:328][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:328][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:329][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:329][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:329][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:329][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:330][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:330][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:330][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:330][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:331][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:331][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:356][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:356][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:356][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:356][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:357][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Sphere' 
+[2019.12.02-16.15.28:357][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Game/ThirdPersonBP/Maps/VersionIvan.VersionIvan:PersistentLevel.ThirdPersonCharacter_167.Cone' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Sphere' 
+[2019.12.02-16.15.28:358][246]LogPhysics: Warning: Initialising Body : Scale3D is (nearly) zero: Component: '/Engine/Transient.World_3:PersistentLevel.ThirdPersonCharacter_C_0.Cone' 
+[2019.12.02-16.15.43:599][408]LogUObjectArray: Warning: Empty slot
+[2019.12.02-16.15.43:601][408]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.02-16.15.44:327][408]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.726 s
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: 
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: Ensure condition failed: false [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/Kismet2/KismetDebugUtilities.cpp] [Line: 1154]
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: Error: Invalid (but non-null) property associated with pin; cannot get variable value
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: Stack: 
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff55f35279 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff55757fca UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff5576622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff51266c91 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff4fd94dca UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff4fd4e057 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff5672d644 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff5691c533 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff5677922b UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff56755738 UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff56749a1e UE4Editor-Slate.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff93244c4c UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff932326df UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff93247340 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff9322edd0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fffb44d63ed USER32.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fffb44d5de2 USER32.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fff932488e9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007ff6405b6980 UE4Editor.exe!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007ff6405ca91c UE4Editor.exe!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007ff6405ca9fa UE4Editor.exe!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007ff6405db92c UE4Editor.exe!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007ff6405de60e UE4Editor.exe!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fffb3f77bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: [Callstack] 0x00007fffb58aced1 ntdll.dll!UnknownFunction []
+[2019.12.02-16.15.44:327][408]LogOutputDevice: Error: 
+[2019.12.02-16.15.44:334][408]LogStats:                SubmitErrorReport -  0.000 s
